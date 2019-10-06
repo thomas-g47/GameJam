@@ -9,7 +9,7 @@ package hackathon;
  *
  * @author johnb
  */
-public class Hackathon {
+public class hackathon {
 
     /**
      * @param args the command line arguments
